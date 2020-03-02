@@ -24,28 +24,27 @@
 
 .main {
 	width: 960px;
-	background-color: palegreen;
 	margin: 0 auto;
 }
 
 .mainbox1 {
 	width: 230px;
 	height: 1400px;
-	background-color: limegreen;
+	background-color: palegreen;
 	float: left;
 }
 
 .mainbox2 {
 	width: 500px;
 	height: 1400px;
-	background-color: green;
+	background-color: limegreen;
 	float: left;
 }
 
 .mainbox3 {
 	width: 230px;
 	height: 1400px;
-	background-color: limegreen;
+	background-color: palegreen;
 	float: left;
 }
 
