@@ -51,21 +51,18 @@ header .headline {
 .main {
 	width: 840px;
 	/*heightを消した*/
-	background-color: green;
 	margin: 0 auto;
 }
 
 .blog {
 	width: 600px;
 	height: 1400px;
-	background-color: limegreen;
 	float: left;
 }
 
 .sidebar {
 	width: 240px;
 	height: 1400px;
-	background-color: palegreen;
 	float: left;
 }
 
