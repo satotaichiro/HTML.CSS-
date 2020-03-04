@@ -11,7 +11,7 @@
 }
 
 main {
-	width: 960px;
+	width: 990px;
 	margin: 50px auto;
 }
 
@@ -24,9 +24,9 @@ main {
 	border: 1px solid #eee;
 }
 
-.box:last-child{
+/*.box:last-child{
   margin-right: 0;
-}
+}*/
 
 .step1_img {
 	height: 150px;
@@ -60,4 +60,25 @@ main {
 
 .title {
 	margin: 15px 0 5px;
+}
+
+@media screen and (max-width:768px) {
+
+main {
+	width: 100%;
+	margin: 50px auto;
+}
+
+.box {
+	float: none;
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+.box:last-child{
+  margin-right: ;
+
+}
+
 }
